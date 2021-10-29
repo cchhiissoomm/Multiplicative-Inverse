@@ -1,5 +1,5 @@
 # Multiplicative-Inverse-Rust 
-This rust code calculates the modular multiplicative inverse of a number making use the Euclidean algorithm.
+This rust code calculates the modular multiplicative inverse of a number making use of the Euclidean algorithm.
 
     fn mod_inv(a: isize, module: isize) -> isize {
 
